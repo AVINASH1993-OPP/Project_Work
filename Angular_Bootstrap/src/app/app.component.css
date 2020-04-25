@@ -1,0 +1,13 @@
+.my-container {
+    margin-top: 70px;
+    width: 80%;
+    background-image: url("/A.jpg");
+    background-size: cover;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+    border: rebeccapurple;
+  }
+  

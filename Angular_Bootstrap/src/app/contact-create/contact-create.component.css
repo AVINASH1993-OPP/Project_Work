@@ -1,0 +1,12 @@
+
+:root {
+    --input-padding-x: 1.5rem;
+    --input-padding-y: .75rem;
+  }
+.container
+{
+ background-color: rgba(248, 167, 46, 0.767);
+ color: rgb(32, 30, 30);
+ font: normal 15px "Helvetica Neue", Arial, Helvetica, sans-serif;
+ border-radius: 20px;
+ }

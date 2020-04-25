@@ -1,0 +1,14 @@
+.jumbotron
+{
+ background-color: rgb(243, 104, 23);
+ color: rgb(32, 30, 30);
+ font: normal 15px "Helvetica Neue", Arial, Helvetica, sans-serif;
+ border-radius: 20px;
+
+ }
+ .class
+ {
+     font-size: large;
+ 
+     font-style: italic;
+ }
